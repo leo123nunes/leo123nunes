@@ -1,10 +1,12 @@
 ### Olá 👋
 
-Sou uma pessoa amante pela tecnologia, principalmente no ramo da programação e desenvolvimento de sistemas.
+Sou uma pessoa amante pela tecnologia, especialmente no ramo da programação e desenvolvimento de sistemas.
 
-Além de estar cursando ciências da computação no 5º semestre no IESB - Brasília DF, também eestou studando linguagem de programação JavaScript, no qual pretendo me especializar em desenvolvimento web.
+Além de estar cursando ciências da computação no 5º semestre no IESB - Brasília DF, também estudo linguagem de programação JavaScript, no qual pretendo me especializar em desenvolvimento web, e também possuo conhecimentos básicos em outras linguagens tais como Java e Kotlin.
 
-Estou sempre postando por meio de repositórios todo meu conhecimento adquirido na área da programação e desenvolvimento de sistemas. Caso tenha alguma dúvida em alguma linguagem ou framework espero que eles lhe sejam úteis!
+Estou em busca de uma vaga de programador no mercado de trabalho, até o momento não possuo experiência profissional, apenas projetos que eu realizo ou realizei durante meu aprendizado na programação que estão nos repositórios a seguir.
+
+Caso tenha alguma dúvida em alguma linguagem ou framework espero poder ajuda-lo!
 
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
