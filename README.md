@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá / Hello 👋
 
 Sou uma pessoa amante pela tecnologia, especialmente no ramo da programação e desenvolvimento de sistemas. Totalmente autodidata, procuro sempre estar adquirindo novos conhecimentos pela internet e em cursos online em plataformas de ensino EAD.
 
