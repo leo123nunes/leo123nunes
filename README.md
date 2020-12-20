@@ -1,13 +1,4 @@
-### Olá 👋
-
-Me chamo Leonardo Nunes e tenho 23 anos. Sou uma pessoa amante pela tecnologia, especialmente no ramo da programação e desenvolvimento de sistemas, me especializando em desenvolvimento web. Estou cursando o 5º semestre de ciências da computação no Centro Universitário IESB - Brasília DF.
-
-Estou em busca de uma vaga de programador no mercado, até o momento não possuo experiência profissional mas posso demonstrar minha experiência na programação pelos repositórios a seguir, no qual estou sempre que possível postando projetos que são feitos utilizando conhecimentos adquiridos na programação.
-
-Caso tenha alguma dúvida espero poder ajudá-lo(a)!
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-### Hello 👋
+### Olá / Hello 👋
 
 My name is Leonardo Nunes and I'm 23 years old. I am a technology lover, especially in the field of programming and systems development, specializing in web development. I am studying the 5th semester of computer science at Centro Universitário IESB - Brasília DF.
 
