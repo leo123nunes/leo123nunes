@@ -1,6 +1,6 @@
 ### Olá / Hello 👋
 
-My name is Leonardo Nunes, I'm 23 years old and I'm Brazilian. At the beginning of my career, I am looking for an internship opportunity for web programmer in companies that are recruiting candidates willing to learn, share new knowledge and contribute to their success in the market.
+My name is Leonardo Nunes, I'm 23 years old and I'm Brazilian. I am a student in the 5th semester of computer science at IESB University - Brasília DF. At the beginning of my career, I am looking for an internship opportunity for web programmer in companies that are recruiting candidates willing to learn, share new knowledge and contribute to their success in the market.
 
 I have no professional experience, but I can demonstrate my experience in programming through my GitHub, in which I am always posting content through projects using knowledge acquired in programming using frameworks and libraries that are on the market.
 
