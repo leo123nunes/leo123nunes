@@ -10,7 +10,7 @@ If you have any doubt hope I can help you!
 
 My social networks:
 
-[LinkedIn](linkedin.com/in/leonardonunesoliveira)
+[LinkedIn](https://www.linkedin.com/in/leonardonunesoliveira/)
 [Facebook](https://www.facebook.com/leonardonunes.oliveira.1/)
 [Instagram](https://www.instagram.com/leo.nunesoliveira/)
 
