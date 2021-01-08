@@ -8,7 +8,7 @@ I am a technology lover, especially in the field of programming. In the various 
 
 If you have any doubt hope I can help you!
 
-## My social networks
+## Social networks
 
 <div display="flex" style="flex-direction: column; align-items: center; justify-content: center;">
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
@@ -25,7 +25,7 @@ If you have any doubt hope I can help you!
   </a>
 </div>
 
-## Programming languages, frameworks and libraries that I use
+## Programming languages, frameworks and libraries
 
 <div>
   <img src="https://user-images.githubusercontent.com/53942734/104068389-9427e280-51e3-11eb-8e43-33a2d34851cc.png" title="Javascript" alt="Javascript">
