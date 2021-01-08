@@ -8,32 +8,6 @@ I am a technology lover, especially in the field of programming. In the various 
 
 If you have any doubt hope I can help you!
 
-## Contact
-<a href>
-  ti.userleo@hotmail.com
-</a>
-
-<a href>
-  leotiuser@gmail.com
-</a>
-
-## Social networks
-
-<div>
-  <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
-    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/104071363-c89d9d80-51e7-11eb-8b12-7efb1308169f.png">
-    </img>
-  </a>
-  <a href="https://www.instagram.com/leo.nunesoliveira/">
-    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/104071362-c89d9d80-51e7-11eb-86e9-55a8f7d24728.png">
-    </img>
-  </a>
-  <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
-    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/104071361-c8050700-51e7-11eb-9aaa-41c6e46c1865.png">
-    </img>
-  </a>
-</div>
-
 ## Skills
 
 <div>
@@ -62,6 +36,31 @@ If you have any doubt hope I can help you!
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes)](https://github.com/leo123nunes/leo123nunes)
 
+## Social networks
+
+<div>
+  <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
+    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/104071363-c89d9d80-51e7-11eb-8b12-7efb1308169f.png">
+    </img>
+  </a>
+  <a href="https://www.instagram.com/leo.nunesoliveira/">
+    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/104071362-c89d9d80-51e7-11eb-86e9-55a8f7d24728.png">
+    </img>
+  </a>
+  <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
+    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/104071361-c8050700-51e7-11eb-9aaa-41c6e46c1865.png">
+    </img>
+  </a>
+</div>
+
+## Contact
+<a href>
+  ti.userleo@hotmail.com
+</a>
+
+<a href>
+  leotiuser@gmail.com
+</a>
 
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
