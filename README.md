@@ -27,10 +27,35 @@ If you have any doubt hope I can help you!
 
 ## Programming languages, frameworks and libraries that I use:
 
-![bootstrap](https://user-images.githubusercontent.com/53942734/104067410-e23be680-51e1-11eb-906d-d285f705b81b.png)
-![css](https://user-images.githubusercontent.com/53942734/104067413-e2d47d00-51e1-11eb-95f3-ee0bba7a709d.png)
-![html](https://user-images.githubusercontent.com/53942734/104067414-e36d1380-51e1-11eb-84d3-48117e7e7a7c.png)
-![javascript](https://user-images.githubusercontent.com/53942734/104067416-e36d1380-51e1-11eb-941b-f4b5cfb59ff5.png)
+<div>
+  <img src="https://user-images.githubusercontent.com/53942734/104068389-9427e280-51e3-11eb-8e43-33a2d34851cc.png" alt="Javascript">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068386-938f4c00-51e3-11eb-9b44-5fb384988cf4.png" alt="Css">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068387-938f4c00-51e3-11eb-94ca-7b2da331e3a2.png" alt="Html">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068394-94c07900-51e3-11eb-9107-fe22ad9a04e5.png" alt="React">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068396-94c07900-51e3-11eb-9a90-0d066f9343a5.png" alt="Vue">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068383-925e1f00-51e3-11eb-92a9-937153b3aff3.png" alt="Bootstrap">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068392-9427e280-51e3-11eb-82f9-1b8430e59f0a.png" alt="jQuery">
+  </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104068393-9427e280-51e3-11eb-9439-34b97d5c7858.png" alt="NodeJs">
+  </img>
+ </div>
+ 
+ ---------------------------------------
+ 
+![javascript](https://user-images.githubusercontent.com/53942734/104068389-9427e280-51e3-11eb-8e43-33a2d34851cc.png)
+![css](https://user-images.githubusercontent.com/53942734/104068386-938f4c00-51e3-11eb-9b44-5fb384988cf4.png)
+![html](https://user-images.githubusercontent.com/53942734/104068387-938f4c00-51e3-11eb-94ca-7b2da331e3a2.png)
+![react](https://user-images.githubusercontent.com/53942734/104068394-94c07900-51e3-11eb-9107-fe22ad9a04e5.png)
+![vue](https://user-images.githubusercontent.com/53942734/104068396-94c07900-51e3-11eb-9a90-0d066f9343a5.png)
+![bootstrap](https://user-images.githubusercontent.com/53942734/104068383-925e1f00-51e3-11eb-92a9-937153b3aff3.png)
+![jquery](https://user-images.githubusercontent.com/53942734/104068392-9427e280-51e3-11eb-82f9-1b8430e59f0a.png)
+![nodejs](https://user-images.githubusercontent.com/53942734/104068393-9427e280-51e3-11eb-9439-34b97d5c7858.png)
 
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
