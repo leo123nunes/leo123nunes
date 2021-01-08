@@ -31,6 +31,8 @@ If you have any doubt hope I can help you!
   <img src="https://user-images.githubusercontent.com/53942734/104068389-9427e280-51e3-11eb-8e43-33a2d34851cc.png" title="Javascript" alt="Javascript">
   <img src="https://user-images.githubusercontent.com/53942734/104074868-00104800-51f0-11eb-94e9-6324add7d937.png" title="Java" alt="Java">
   </img>
+  <img src="https://user-images.githubusercontent.com/53942734/104075061-7ca32680-51f0-11eb-89a0-a34486955c28.png" title="Kotlin" alt="Kotlin">
+  </img>
   <img src="https://user-images.githubusercontent.com/53942734/104068386-938f4c00-51e3-11eb-9b44-5fb384988cf4.png" title="Css" alt="Css">
   </img>
   <img src="https://user-images.githubusercontent.com/53942734/104068387-938f4c00-51e3-11eb-94ca-7b2da331e3a2.png" title="Html" alt="Html">
