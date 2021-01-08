@@ -10,17 +10,17 @@ If you have any doubt hope I can help you!
 
 ## Social networks
 
-<div display="flex" style="flex-direction: column; align-items: center; justify-content: center;">
+<div>
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
-    <img width="40px" height="40px" src="https://user-images.githubusercontent.com/53942734/104056891-f676e800-51cf-11eb-9f76-479100c5c29a.jpg">
+    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/104071363-c89d9d80-51e7-11eb-8b12-7efb1308169f.png">
     </img>
   </a>
   <a href="https://www.instagram.com/leo.nunesoliveira/">
-    <img src="https://user-images.githubusercontent.com/53942734/104056889-f545bb00-51cf-11eb-9ed4-91380e37f9e5.jpg">
+    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/104071362-c89d9d80-51e7-11eb-86e9-55a8f7d24728.png">
     </img>
   </a>
   <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
-    <img src="https://user-images.githubusercontent.com/53942734/104057397-e1e71f80-51d0-11eb-94fe-46acc9ee239c.png">
+    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/104071361-c8050700-51e7-11eb-9aaa-41c6e46c1865.png">
     </img>
   </a>
 </div>
