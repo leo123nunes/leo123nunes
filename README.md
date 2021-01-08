@@ -8,6 +8,12 @@ I am a technology lover, especially in the field of programming. In the various 
 
 If you have any doubt hope I can help you!
 
+My social networks:
+
+[LinkedIn](linkedin.com/in/leonardonunesoliveira)
+[Facebook](https://www.facebook.com/leonardonunes.oliveira.1/)
+[Instagram](https://www.instagram.com/leo.nunesoliveira/)
+
 Programming languages, frameworks and libraries that I use:
 
 ![javascript](https://user-images.githubusercontent.com/53942734/103427928-c9a84c80-4ba1-11eb-88ba-8eb689f0d140.png)
