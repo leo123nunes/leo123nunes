@@ -8,28 +8,29 @@ I am a technology lover, especially in the field of programming. In the various 
 
 If you have any doubt hope I can help you!
 
-My social networks:
+## My social networks:
 
-[LinkedIn](https://www.linkedin.com/in/leonardonunesoliveira/)
-[Facebook](https://www.facebook.com/leonardonunes.oliveira.1/)
-[Instagram](https://www.instagram.com/leo.nunesoliveira/)
+<div display="flex" style="flex-direction: column; align-items: center; justify-content: center;">
+  <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
+    <img width="40px" height="40px" src="https://user-images.githubusercontent.com/53942734/104056891-f676e800-51cf-11eb-9f76-479100c5c29a.jpg">
+    </img>
+  </a>
+  <a href="https://www.instagram.com/leo.nunesoliveira/">
+    <img src="https://user-images.githubusercontent.com/53942734/104056889-f545bb00-51cf-11eb-9ed4-91380e37f9e5.jpg">
+    </img>
+  </a>
+  <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
+    <img src="https://user-images.githubusercontent.com/53942734/104057397-e1e71f80-51d0-11eb-94fe-46acc9ee239c.png">
+    </img>
+  </a>
+</div>
 
-Programming languages, frameworks and libraries that I use:
+## Programming languages, frameworks and libraries that I use:
 
-![javascript](https://user-images.githubusercontent.com/53942734/103427928-c9a84c80-4ba1-11eb-88ba-8eb689f0d140.png)
-![java](https://user-images.githubusercontent.com/53942734/103427919-c90fb600-4ba1-11eb-879a-3e068e06507f.jpg)
-![kotlin](https://user-images.githubusercontent.com/53942734/103427943-ca40e300-4ba1-11eb-8853-6dfdbbaa7f5d.jpg)
-![html](https://user-images.githubusercontent.com/53942734/103427913-c8771f80-4ba1-11eb-9a8f-a7d7842fd2a2.png)
-![css](https://user-images.githubusercontent.com/53942734/103427905-c8771f80-4ba1-11eb-91f8-513f654eb49b.png)
-![react](https://user-images.githubusercontent.com/53942734/103427955-cb721000-4ba1-11eb-854a-b6d44e56d1cf.jpg)
-![vue](https://user-images.githubusercontent.com/53942734/103427962-cb721000-4ba1-11eb-864b-2a2a9f89c76a.jpeg)
-![jquery](https://user-images.githubusercontent.com/53942734/103427935-c9a84c80-4ba1-11eb-9491-8a64defae371.png)
-![node](https://user-images.githubusercontent.com/53942734/103427948-cad97980-4ba1-11eb-984a-8db079848f79.png)
-![bootstrap](https://user-images.githubusercontent.com/53942734/103427893-c745f280-4ba1-11eb-8421-c2a1b94af3d2.png)
-
-
-
-
+![bootstrap](https://user-images.githubusercontent.com/53942734/104067410-e23be680-51e1-11eb-906d-d285f705b81b.png)
+![css](https://user-images.githubusercontent.com/53942734/104067413-e2d47d00-51e1-11eb-95f3-ee0bba7a709d.png)
+![html](https://user-images.githubusercontent.com/53942734/104067414-e36d1380-51e1-11eb-84d3-48117e7e7a7c.png)
+![javascript](https://user-images.githubusercontent.com/53942734/104067416-e36d1380-51e1-11eb-941b-f4b5cfb59ff5.png)
 
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
