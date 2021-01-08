@@ -11,8 +11,8 @@ If you have any doubt hope I can help you!
 ## Social networks
 
 <div>
-  <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
-    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/104071363-c89d9d80-51e7-11eb-8b12-7efb1308169f.png">
+  <a href="https://www.linkedin.com/in/leonardonunesoliveira/" outline="none">
+    <img title="LinkedIn" outline="none" src="https://user-images.githubusercontent.com/53942734/104071363-c89d9d80-51e7-11eb-8b12-7efb1308169f.png">
     </img>
   </a>
   <a href="https://www.instagram.com/leo.nunesoliveira/">
