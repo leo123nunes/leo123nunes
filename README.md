@@ -54,7 +54,7 @@ If you have any doubt hope I can help you!
 </div>
 
 ## Contact
-<a href="javascript:window.location.href=window.location.href">
+<a href="?">
   ti.userleo@hotmail.com
 </a>
 
