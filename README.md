@@ -54,7 +54,7 @@ If you have any doubt hope I can help you!
 </div>
 
 ## Contact
-<a href="#0">
+<a href="/">
   ti.userleo@hotmail.com
 </a>
 
