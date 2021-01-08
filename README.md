@@ -45,6 +45,11 @@ If you have any doubt hope I can help you!
   <img src="https://user-images.githubusercontent.com/53942734/104068393-9427e280-51e3-11eb-9439-34b97d5c7858.png" title="NodeJs" alt="NodeJs">
   </img>
  </div>
+ 
+ <br></br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes)](https://github.com/leo123nunes/leo123nunes)
+
 
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
