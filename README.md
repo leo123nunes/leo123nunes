@@ -1,4 +1,4 @@
-### Hello :smile:👋
+### Hello :smile: :+1:
 
 My name is Leonardo Nunes, I'm 23 years old and I'm Brazilian. I am a student in the 5th semester of computer science at <a href="https://www.iesb.br/" title="IESB">IESB University - Brasília DF</a>. At the beginning of my career, I am looking for an internship opportunity for web programmer in companies that are recruiting candidates willing to learn, share new knowledge and contribute to their success in the market.
 
