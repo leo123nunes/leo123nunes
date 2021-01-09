@@ -72,11 +72,11 @@ If you have any doubt hope I can help you!
 </div>
 
 ## Contact
-<a href="#">
+<a href="mailto:ti.userleo@hotmail.com">
   ti.userleo@hotmail.com
 </a>
 
-<a href="#">
+<a href="mailto:leotiuser@gmail.com">
   leotiuser@gmail.com
 </a>
 
