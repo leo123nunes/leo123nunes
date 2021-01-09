@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello :smile:👋
 
 My name is Leonardo Nunes, I'm 23 years old and I'm Brazilian. I am a student in the 5th semester of computer science at <a href="https://www.iesb.br/">IESB University - Brasília DF</a>. At the beginning of my career, I am looking for an internship opportunity for web programmer in companies that are recruiting candidates willing to learn, share new knowledge and contribute to their success in the market.
 
@@ -8,7 +8,7 @@ I am a technology lover, especially in the field of programming. In the various 
 
 If you have any doubt hope I can help you!
 
-## Skills
+## Skills :heavy_check_mark:
 
 <div>
   <a href="#">
@@ -54,7 +54,7 @@ If you have any doubt hope I can help you!
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes)](https://github.com/leo123nunes/leo123nunes)
 
-## Social networks
+## Social networks :computer:
 
 <div>
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
@@ -71,7 +71,7 @@ If you have any doubt hope I can help you!
   </a>
 </div>
 
-## Contact
+## Contact :email:
 <a href="mailto:ti.userleo@hotmail.com">
   ti.userleo@hotmail.com
 </a>
