@@ -48,6 +48,10 @@ If you have any doubt hope I can help you!
     <img src="https://user-images.githubusercontent.com/53942734/104068393-9427e280-51e3-11eb-9439-34b97d5c7858.png" title="NodeJs" alt="NodeJs">
     </img>
   </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/53942734/104639969-c3789c80-5686-11eb-9d3f-8a3dbcf82274.png" title="Angular" alt="Angular">
+    </img>
+  </a>
  </div>
  
  <br></br>
