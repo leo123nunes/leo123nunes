@@ -1,16 +1,20 @@
 ### Hello :smile: :+1:
 
-My name is Leonardo Nunes, I'm 23 years old and I'm Brazilian. I am a student in the 5th semester of computer science at <a href="https://www.iesb.br/" title="IESB">IESB University - Brasília DF</a>. At the beginning of my career, I am looking for an internship opportunity for web programmer in companies that are recruiting candidates willing to learn, share new knowledge and contribute to their success in the market.
+<ul>
+    <li>
+        Brasileiro, 23 anos.
+    </li>
+    <li>
+        Estudante de Ciências da Computação no 5º Semestre no <a href="https://www.iesb.br/" title="IESB">Centro Universitário IESB - Brasília DF.</a>
+    </li>
+    <li>
+        Em início de carreira, em busca de uma oportunidade de estágio de programação na área da Tecnologia da Informação.
+    </li>
+ </ul>
 
-I have no professional experience, but I can demonstrate my experience in programming through my <a href="https://github.com/leo123nunes" title="my github">GitHub</a>, in which I am always posting content through projects using knowledge acquired in programming using frameworks and libraries that are on the market.
+## Habilidades :heavy_check_mark:
 
-I am a technology lover, especially in the field of programming. In the various areas that programming allows you to work in, I am very interested in web programming, both Frontend and Backend, in which I feel more motivated and interested to always be acquiring new knowledge.
-
-If you have any doubt hope I can help you!
-
-## Skills :heavy_check_mark:
-
-### Operation systems
+### Sistemas Operacionais
 
 <div>
     <a href="#">
@@ -21,7 +25,7 @@ If you have any doubt hope I can help you!
   </a>
 </div>
 
-### Programming languages
+### Linguagens de programação
 
 <div>
 <a href="#">
@@ -44,7 +48,7 @@ If you have any doubt hope I can help you!
   </a>
 </div>
 
-### Frameworks/Libraries
+### Frameworks e bibliotecas
 
 <div>
   <a href="#">
@@ -72,7 +76,7 @@ If you have any doubt hope I can help you!
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes)](https://github.com/leo123nunes/leo123nunes)
 
-## Social networks :computer:
+## Redes sociais :computer:
 
 <div>
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
@@ -89,7 +93,7 @@ If you have any doubt hope I can help you!
   </a>
 </div>
 
-## Contact :email:
+## Contato :email:
 <a href="mailto:ti.userleo@hotmail.com" title="my email">
   ti.userleo@hotmail.com
 </a>
