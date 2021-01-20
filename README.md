@@ -30,22 +30,22 @@
 <div>
 <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>
-  </a>&nbsp
+  </a>&nbsp&nbsp
   <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/105243210-82ccc780-5b4d-11eb-9df6-093dc1797485.png" title="Java" alt="Java"/>
-  </a>&nbsp
+  </a>&nbsp&nbsp
   <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/105243578-fff83c80-5b4d-11eb-889e-1dbc20d0b164.png" title="Kotlin" alt="Kotlin">
     </img>
-  </a>&nbsp
+  </a>&nbsp&nbsp
   <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css">
     </img>
-  </a>&nbsp
+  </a>&nbsp&nbsp
   <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html">
     </img>
-  </a>&nbsp
+  </a>&nbsp&nbsp
 </div>
 
 ### Frameworks e bibliotecas
