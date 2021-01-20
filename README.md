@@ -28,7 +28,7 @@
 ### Linguagens de programação
 
 <div>
-<a href="#" color="inherit">
+<a href="#" text-decoration="none">
     <img src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>
   </a>&nbsp&nbsp
   <a href="#">
