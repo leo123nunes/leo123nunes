@@ -1,4 +1,4 @@
-### Olá :smile: :+1:
+### Olá :smile:
 
 <ul>
     <li>
