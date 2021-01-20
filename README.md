@@ -18,11 +18,11 @@
 
 <div>
     <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/105209625-ceb94580-5b28-11eb-9826-03455a1646d7.png" title="Windows" alt="Windows"/>
-  </a>
+    <img src="https://user-images.githubusercontent.com/53942734/105247275-4b611980-5b53-11eb-9353-1218f4fa54ff.png" title="Windows" alt="Windows"/>
+  </a>&nbsp&nbsp
     <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/105209619-ce20af00-5b28-11eb-8a1f-c8a63e89493a.png" title="Linux" alt="Linux"/>
-  </a>
+    <img src="https://user-images.githubusercontent.com/53942734/105247282-4d2add00-5b53-11eb-9299-3aed55886d57.png" title="Linux" alt="Linux"/>
+  </a>&nbsp&nbsp
 </div>
 
 ### Linguagens de programação
