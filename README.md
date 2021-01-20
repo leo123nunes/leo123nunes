@@ -28,7 +28,7 @@
 ### Linguagens de programação
 
 <div>
-    <img src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>&nbsp&nbsp
+    <img style="pointer-events: none; cursor: default;" src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>&nbsp&nbsp
   <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/105243210-82ccc780-5b4d-11eb-9df6-093dc1797485.png" title="Java" alt="Java"/>
   </a>&nbsp&nbsp
