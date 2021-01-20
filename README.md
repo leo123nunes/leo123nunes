@@ -10,8 +10,10 @@ If you have any doubt hope I can help you!
 
 ## Skills :heavy_check_mark:
 
+### Programming languages
+
 <div>
-  <a href="#">
+<a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/104068389-9427e280-51e3-11eb-8e43-33a2d34851cc.png" title="Javascript" alt="Javascript"/>
   </a>
   <a href="#">
@@ -29,6 +31,11 @@ If you have any doubt hope I can help you!
     <img src="https://user-images.githubusercontent.com/53942734/104068387-938f4c00-51e3-11eb-94ca-7b2da331e3a2.png" title="Html" alt="Html">
     </img>
   </a>
+</div>
+
+### Libraries/Frameworks
+
+<div>
   <a href="#">
     <img src="https://user-images.githubusercontent.com/53942734/104639969-c3789c80-5686-11eb-9d3f-8a3dbcf82274.png" title="Angular" alt="Angular">
     </img>
@@ -48,11 +55,7 @@ If you have any doubt hope I can help you!
   <img src="https://user-images.githubusercontent.com/53942734/104068392-9427e280-51e3-11eb-82f9-1b8430e59f0a.png" title="jQuery" alt="jQuery">
   </img>
   </a>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068393-9427e280-51e3-11eb-9439-34b97d5c7858.png" title="NodeJs" alt="NodeJs">
-    </img>
-  </a>
- </div>
+</div>
  
  <br></br>
  
