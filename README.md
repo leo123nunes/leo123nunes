@@ -37,25 +37,16 @@
 ### Frameworks e bibliotecas
 
 <div>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104639969-c3789c80-5686-11eb-9d3f-8a3dbcf82274.png" title="Angular" alt="Angular">
-    </img>
-  </a>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068394-94c07900-51e3-11eb-9107-fe22ad9a04e5.png" title="React" alt="React">
-    </img>
-  </a>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068396-94c07900-51e3-11eb-9a90-0d066f9343a5.png" title="Vue" alt="Vue">
-    </img>
-  </a>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068383-925e1f00-51e3-11eb-92a9-937153b3aff3.png" title="Bootstrap"        alt="Bootstrap"/>
-  </a>
-  <a href="#">
-  <img src="https://user-images.githubusercontent.com/53942734/104068392-9427e280-51e3-11eb-82f9-1b8430e59f0a.png" title="jQuery" alt="jQuery">
-  </img>
-  </a>
+    <img src="https://user-images.githubusercontent.com/53942734/105248243-cf67d100-5b54-11eb-9f7b-38c0974f26a4.png" title="Angular" alt="Angular">
+    </img>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248238-cd9e0d80-5b54-11eb-9dba-726ca6cab5e2.png" title="React" alt="React">
+    </img>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248240-cecf3a80-5b54-11eb-931f-22f24e884b9d.png" title="Vue" alt="Vue">
+    </img>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248244-d0006780-5b54-11eb-8c5b-680525d002fa.png" title="Bootstrap"        alt="Bootstrap"/>
+    </img>&nbsp&nbsp
+  <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery">
+  </img>&nbsp&nbsp
 </div>
  
  <br></br>
