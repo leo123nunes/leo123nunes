@@ -29,21 +29,21 @@
 
 <div>
 <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068389-9427e280-51e3-11eb-8e43-33a2d34851cc.png" title="Javascript" alt="Javascript"/>
+    <img src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104074868-00104800-51f0-11eb-94e9-6324add7d937.png" title="Java" alt="Java"/>
+    <img src="https://user-images.githubusercontent.com/53942734/105243210-82ccc780-5b4d-11eb-9df6-093dc1797485.png" title="Java" alt="Java"/>
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104075061-7ca32680-51f0-11eb-89a0-a34486955c28.png" title="Kotlin" alt="Kotlin">
+    <img src="https://user-images.githubusercontent.com/53942734/105243578-fff83c80-5b4d-11eb-889e-1dbc20d0b164.png" title="Kotlin" alt="Kotlin">
     </img>
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068386-938f4c00-51e3-11eb-9b44-5fb384988cf4.png" title="Css" alt="Css">
+    <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css">
     </img>
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/104068387-938f4c00-51e3-11eb-94ca-7b2da331e3a2.png" title="Html" alt="Html">
+    <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html">
     </img>
   </a>
 </div>
