@@ -14,8 +14,6 @@
 
 ## Habilidades :heavy_check_mark:
 
-<div>
-<span>
 ### Sistemas Operacionais
 
 <div>
@@ -52,11 +50,9 @@
 </div>
  
  <br></br>
- </span>
- <span>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes)](https://github.com/leo123nunes/leo123nunes)
- </div>
-</span>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
+
 
 ## Redes sociais :computer:
 
