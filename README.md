@@ -44,7 +44,7 @@ If you have any doubt hope I can help you!
   </a>
 </div>
 
-### Libraries/Frameworks
+### Frameworks/Libraries
 
 <div>
   <a href="#">
