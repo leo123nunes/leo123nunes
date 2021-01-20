@@ -8,7 +8,7 @@
         Estudante de Ciências da Computação no 5º Semestre no <a href="https://www.iesb.br/" title="IESB">Centro Universitário IESB - Brasília DF.</a>
     </li>
     <li>
-        Em início de carreira, em busca de uma oportunidade de estágio de programação na área da Tecnologia da Informação.
+        Em início de carreira, em busca de uma oportunidade de estágio de programação na área de Tecnologia da Informação.
     </li>
  </ul>
 
