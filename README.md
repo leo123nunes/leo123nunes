@@ -57,27 +57,26 @@
 
 <div>
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
-    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/104071363-c89d9d80-51e7-11eb-8b12-7efb1308169f.png">
+    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png">
     </img>
-  </a>
+  </a>&nbsp&nbsp
   <a href="https://www.instagram.com/leo.nunesoliveira/">
-    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/104071362-c89d9d80-51e7-11eb-86e9-55a8f7d24728.png">
+    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/105248870-f246b500-5b55-11eb-9a60-a9fda449fedf.png">
     </img>
-  </a>
+  </a>&nbsp&nbsp
   <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
-    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/104071361-c8050700-51e7-11eb-9aaa-41c6e46c1865.png">
+    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/105248866-f1ae1e80-5b55-11eb-849e-19e8843bb31a.png">
     </img>
-  </a>
+  </a>&nbsp&nbsp
 </div>
 
 ## Contato :email:
 <a href="mailto:ti.userleo@hotmail.com" title="my email">
   ti.userleo@hotmail.com
-</a>
-
+</a>&nbsp&nbsp
 <a href="mailto:leotiuser@gmail.com" title="my email">
   leotiuser@gmail.com
-</a>
+</a>&nbsp&nbsp
 
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
