@@ -14,10 +14,10 @@ If you have any doubt hope I can help you!
 
 <div>
     <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/105209625-ceb94580-5b28-11eb-9826-03455a1646d7.png" title="Linux" alt="Linux"/>
+    <img src="https://user-images.githubusercontent.com/53942734/105209625-ceb94580-5b28-11eb-9826-03455a1646d7.png" title="Windows" alt="Windows"/>
   </a>
     <a href="#">
-    <img src="https://user-images.githubusercontent.com/53942734/105209619-ce20af00-5b28-11eb-8a1f-c8a63e89493a.png" title="Windows" alt="Windows"/>
+    <img src="https://user-images.githubusercontent.com/53942734/105209619-ce20af00-5b28-11eb-8a1f-c8a63e89493a.png" title="Linux" alt="Linux"/>
   </a>
 </div>
 
