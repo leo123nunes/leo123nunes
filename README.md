@@ -5,7 +5,7 @@
         Brasileiro, 23 anos.
     </li>
     <li>
-        Estudante de Ciências da Computação no 5º Semestre no <a href="https://www.iesb.br/" title="IESB">Centro Universitário IESB - Brasília DF.</a> <b>(Conclusão prevista para 2024)</b>
+        Estudante de Ciências da Computação no 6º Semestre no <a href="https://www.iesb.br/" title="IESB">Centro Universitário IESB - Brasília DF.</a> <b>(Conclusão prevista para 2023)</b>
     </li>
     <li>
         Em início de carreira, em busca de uma oportunidade de estágio de programação na área de Tecnologia da Informação.
