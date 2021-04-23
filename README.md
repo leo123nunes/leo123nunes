@@ -2,7 +2,7 @@
 
 <ul>
     <li>
-        Brasileiro, 23 anos.
+        Brasileiro, 24 anos.
     </li>
     <li>
         Estudante de Ciências da Computação no 6º Semestre no <a href="https://www.iesb.br/" title="IESB">Centro Universitário IESB - Brasília DF.</a> <b>(Conclusão prevista para 2023)</b>
