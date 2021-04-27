@@ -70,10 +70,6 @@
 <a href="mailto:ti.userleo@hotmail.com" title="my email">
   ti.userleo@hotmail.com
 </a>&nbsp&nbsp
-<a href="mailto:leotiuser@gmail.com" title="my email">
-  leotiuser@gmail.com
-</a>&nbsp&nbsp
-
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
