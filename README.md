@@ -6,7 +6,7 @@
     </li>
  </ul>
 
-## Habilidades :heavy_check_mark:
+## Conhecimentos :heavy_check_mark:
 
 ### Sistemas Operacionais
 
