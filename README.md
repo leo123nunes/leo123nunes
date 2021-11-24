@@ -23,7 +23,7 @@
     <img src="https://user-images.githubusercontent.com/53942734/105609080-95c9dc80-5d85-11eb-8773-71fbe74af0ea.png" title="Java" alt="Java"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/143283350-46a0b158-f76f-4f9a-854c-18e4135f660c.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143286152-98e268f9-f3f4-40c3-9da6-4c58b1a2433e.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
 </div>
 
 ### Ferramentas
@@ -36,9 +36,9 @@
     <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143284590-160a009e-5bd3-4c15-8cb4-99c8d0c9678f.png" title="WordPress" alt="WordPress"/>&nbsp&nbsp
      <br></br>
-    <img src="https://user-images.githubusercontent.com/53942734/143284677-491134f1-fb60-4b1b-a765-da555409d02c.png" title="Firebase" alt="Firebase"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/143284756-faf420b5-6a69-4eb9-ada6-6b8f4a4975d9.png" title="PostgreSQL" alt="PostgreSQL"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/143284713-caa49da3-10be-4132-9433-e0c3c1a6bb3c.png" title="MongoDB" alt="MongoDB"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143286155-39fc0986-aa9c-4a3a-a87c-29b12b082e4b.png" title="Firebase" alt="Firebase"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143286163-dff20413-2781-4cd8-8d76-65e42bc8332a.png" title="PostgreSQL" alt="PostgreSQL"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143286159-083f5ca0-8db4-445f-a19f-344a1de85b57.png" title="MongoDB" alt="MongoDB"/>&nbsp&nbsp
 </div>
  
  <br></br>
