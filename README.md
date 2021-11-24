@@ -8,13 +8,6 @@
 
 ## Conhecimentos
 
-### Sistemas Operacionais
-
-<div>
-    <img src="https://user-images.githubusercontent.com/53942734/105247282-4d2add00-5b53-11eb-9299-3aed55886d57.png" title="Linux" alt="Linux"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105247275-4b611980-5b53-11eb-9353-1218f4fa54ff.png" title="Windows" alt="Windows"/>&nbsp&nbsp
-</div>
-
 ### Linguagens
 
 <div>
@@ -38,6 +31,13 @@
     <img src="https://user-images.githubusercontent.com/53942734/105248238-cd9e0d80-5b54-11eb-9dba-726ca6cab5e2.png" title="React" alt="React"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105248244-d0006780-5b54-11eb-8c5b-680525d002fa.png" title="Bootstrap" alt="Bootstrap"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery"/>&nbsp&nbsp   
+</div>
+
+### Sistemas Operacionais
+
+<div>
+    <img src="https://user-images.githubusercontent.com/53942734/105247282-4d2add00-5b53-11eb-9299-3aed55886d57.png" title="Linux" alt="Linux"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105247275-4b611980-5b53-11eb-9353-1218f4fa54ff.png" title="Windows" alt="Windows"/>&nbsp&nbsp
 </div>
  
  <br></br>
