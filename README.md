@@ -1,5 +1,3 @@
-## Conhecimentos
-
 ### Linguagens
 
 <div>
@@ -37,7 +35,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
 
 
-## Redes sociais :computer:
+### Redes sociais :computer:
 
 <div>
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
@@ -51,7 +49,7 @@
   </a>&nbsp
 </div>
 
-## Contato :email:
+### Contato :email:
 <a href="mailto:ti.userleo@hotmail.com" title="Meu e-mail">
   ti.userleo@hotmail.com
 </a>&nbsp&nbsp
