@@ -21,24 +21,19 @@
     <img src="https://user-images.githubusercontent.com/53942734/143281903-db775b29-f1ca-4cba-af64-edda35edf90e.png" title="Python" alt="Python"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143283869-4d388c67-dc16-40d6-8fe4-847471987374.png" title="Javascript" alt="Javascript"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105609080-95c9dc80-5d85-11eb-8773-71fbe74af0ea.png" title="Java" alt="Java"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css">&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html">&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/143283350-46a0b158-f76f-4f9a-854c-18e4135f660c.png" title="Kotlin" alt="Kotlin">&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143283350-46a0b158-f76f-4f9a-854c-18e4135f660c.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
 </div>
 
 ### Ferramentas
 
 <div>
-    <img src="https://user-images.githubusercontent.com/53942734/105248243-cf67d100-5b54-11eb-9f7b-38c0974f26a4.png" title="Angular" alt="Angular">
-    </img>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105248238-cd9e0d80-5b54-11eb-9dba-726ca6cab5e2.png" title="React" alt="React">
-    </img>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105248240-cecf3a80-5b54-11eb-931f-22f24e884b9d.png" title="Vue" alt="Vue">
-    </img>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105248244-d0006780-5b54-11eb-8c5b-680525d002fa.png" title="Bootstrap"        alt="Bootstrap"/>
-    </img>&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery">
-  </img>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248243-cf67d100-5b54-11eb-9f7b-38c0974f26a4.png" title="Angular" alt="Angular"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248238-cd9e0d80-5b54-11eb-9dba-726ca6cab5e2.png" title="React" alt="React"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248240-cecf3a80-5b54-11eb-931f-22f24e884b9d.png" title="Vue" alt="Vue"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248244-d0006780-5b54-11eb-8c5b-680525d002fa.png" title="Bootstrap" alt="Bootstrap"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery"/>&nbsp&nbsp
 </div>
  
  <br></br>
@@ -50,16 +45,13 @@
 
 <div>
   <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
-    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png">
-    </img>
+    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png"/>
   </a>&nbsp
   <a href="https://www.instagram.com/leo.nunesoliveira/">
-    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/105248870-f246b500-5b55-11eb-9a60-a9fda449fedf.png">
-    </img>
+    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/105248870-f246b500-5b55-11eb-9a60-a9fda449fedf.png"/>
   </a>&nbsp
   <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
-    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/105248866-f1ae1e80-5b55-11eb-849e-19e8843bb31a.png">
-    </img>
+    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/105248866-f1ae1e80-5b55-11eb-849e-19e8843bb31a.png"/>
   </a>&nbsp
 </div>
 
