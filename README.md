@@ -26,7 +26,7 @@
     <img src="https://user-images.githubusercontent.com/53942734/143287356-2870558d-fe4c-4374-8346-d410e9303aaf.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
 </div>
 
-### Ferramentas
+### Frameworks, bibliotecas e bancos de dados
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/143284590-160a009e-5bd3-4c15-8cb4-99c8d0c9678f.png" title="WordPress" alt="WordPress"/>&nbsp&nbsp
