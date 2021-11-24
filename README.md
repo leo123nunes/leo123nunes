@@ -34,7 +34,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
 
-### Contato :email:
+### Contato
 <a href="https://www.linkedin.com/in/leonunesoliveira/">
     <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png"/>
   </a>
