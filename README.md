@@ -34,22 +34,11 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
 
-
-### Redes sociais :computer:
-
-<div>
-  <a href="https://www.linkedin.com/in/leonardonunesoliveira/">
+### Contato :email:
+<a href="https://www.linkedin.com/in/leonunesoliveira/">
     <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png"/>
   </a>
-  <a href="https://www.instagram.com/leo.nunesoliveira/">
-    <img title="Instagram" src="https://user-images.githubusercontent.com/53942734/105248870-f246b500-5b55-11eb-9a60-a9fda449fedf.png"/>
-  </a>
-  <a href="https://www.facebook.com/leonardonunes.oliveira.1/">
-    <img title="Facebook" src="https://user-images.githubusercontent.com/53942734/105248866-f1ae1e80-5b55-11eb-849e-19e8843bb31a.png"/>
-  </a>
-</div>
-
-### Contato :email:
+  &nbsp&nbsp
 <a href="mailto:ti.userleo@hotmail.com" title="Meu e-mail">
   ti.userleo@hotmail.com
 </a>&nbsp&nbsp
