@@ -60,7 +60,7 @@
 </div>
 
 ## Contato :email:
-<a href="mailto:ti.userleo@hotmail.com" title="my email">
+<a href="mailto:ti.userleo@hotmail.com" title="Meu e-mail">
   ti.userleo@hotmail.com
 </a>&nbsp&nbsp
 <!--
