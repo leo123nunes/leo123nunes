@@ -35,7 +35,6 @@
     <img src="https://user-images.githubusercontent.com/53942734/105248244-d0006780-5b54-11eb-8c5b-680525d002fa.png" title="Bootstrap" alt="Bootstrap"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143284590-160a009e-5bd3-4c15-8cb4-99c8d0c9678f.png" title="WordPress" alt="WordPress"/>&nbsp&nbsp
-     <br></br>
     <img src="https://user-images.githubusercontent.com/53942734/143286155-39fc0986-aa9c-4a3a-a87c-29b12b082e4b.png" title="Firebase" alt="Firebase"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143286163-dff20413-2781-4cd8-8d76-65e42bc8332a.png" title="PostgreSQL" alt="PostgreSQL"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143286159-083f5ca0-8db4-445f-a19f-344a1de85b57.png" title="MongoDB" alt="MongoDB"/>&nbsp&nbsp
