@@ -23,7 +23,7 @@
     <img src="https://user-images.githubusercontent.com/53942734/105609080-95c9dc80-5d85-11eb-8773-71fbe74af0ea.png" title="Java" alt="Java"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/143286152-98e268f9-f3f4-40c3-9da6-4c58b1a2433e.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143287069-354553ef-7e43-461c-9ae5-a1f909518ca2.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
 </div>
 
 ### Ferramentas
