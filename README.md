@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/53942734/105247282-4d2add00-5b53-11eb-9299-3aed55886d57.png" title="Linux" alt="Linux"/>&nbsp&nbsp
 </div>
 
-### Linguagens de programação
+### Linguagens
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>&nbsp&nbsp
@@ -26,7 +26,7 @@
     </img>&nbsp&nbsp
 </div>
 
-### Frameworks e bibliotecas
+### Ferramentas
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/105248243-cf67d100-5b54-11eb-9f7b-38c0974f26a4.png" title="Angular" alt="Angular">
