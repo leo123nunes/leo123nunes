@@ -30,6 +30,8 @@
     <img src="https://user-images.githubusercontent.com/53942734/105247275-4b611980-5b53-11eb-9353-1218f4fa54ff.png" title="Windows" alt="Windows"/>&nbsp&nbsp
 </div>
 
+<br/>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
 
 ### Contato :email:
