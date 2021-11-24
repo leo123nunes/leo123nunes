@@ -19,7 +19,7 @@
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/143281903-db775b29-f1ca-4cba-af64-edda35edf90e.png" title="Python" alt="Python"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105241340-4d73aa00-5b4c-11eb-8fed-34916a755415.png" title="Javascript" alt="Javascript"/>&nbsp&nbsp
+    <img src="https://user-images.githubusercontent.com/53942734/143283684-1c7f4a4f-53d2-4550-8a8e-e2361b15b603.png" title="Javascript" alt="Javascript"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105609080-95c9dc80-5d85-11eb-8773-71fbe74af0ea.png" title="Java" alt="Java"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css">&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105244303-118e1400-5b4f-11eb-8252-a3800e2c7e56.png" title="Html" alt="Html">&nbsp&nbsp
