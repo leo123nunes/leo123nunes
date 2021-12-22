@@ -1,4 +1,4 @@
-### Linguagens
+### Languages
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/143281903-db775b29-f1ca-4cba-af64-edda35edf90e.png" title="Python" alt="Python"/>&nbsp&nbsp
@@ -9,7 +9,7 @@
     <img src="https://user-images.githubusercontent.com/53942734/143287356-2870558d-fe4c-4374-8346-d410e9303aaf.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
 </div>
 
-### Frameworks, bibliotecas e bancos de dados
+### Frameworks, libraries and databases
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/143284590-160a009e-5bd3-4c15-8cb4-99c8d0c9678f.png" title="WordPress" alt="WordPress"/>&nbsp&nbsp
@@ -23,18 +23,11 @@
     <img src="https://user-images.githubusercontent.com/53942734/105248245-d098fe00-5b54-11eb-9c55-691c92645c7f.png" title="jQuery" alt="jQuery"/>&nbsp&nbsp   
 </div>
 
-### Sistemas Operacionais
-
-<div>
-    <img src="https://user-images.githubusercontent.com/53942734/105247282-4d2add00-5b53-11eb-9299-3aed55886d57.png" title="Linux" alt="Linux"/>&nbsp&nbsp
-    <img src="https://user-images.githubusercontent.com/53942734/105247275-4b611980-5b53-11eb-9353-1218f4fa54ff.png" title="Windows" alt="Windows"/>&nbsp&nbsp
-</div>
-
 <br/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
 
-### Contato
+### Contact
 <a href="https://www.linkedin.com/in/leonunesoliveira/">
     <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png"/>
   </a>
