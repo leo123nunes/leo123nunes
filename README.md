@@ -1,4 +1,4 @@
-### Languages
+### Knowledge
 
 <div>
     <img src="https://user-images.githubusercontent.com/53942734/143281903-db775b29-f1ca-4cba-af64-edda35edf90e.png" title="Python" alt="Python"/>&nbsp&nbsp
@@ -7,11 +7,6 @@
     <img src="https://user-images.githubusercontent.com/53942734/105244090-c411a700-5b4e-11eb-8acd-5624f7791162.png" title="Css" alt="Css"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/105609080-95c9dc80-5d85-11eb-8773-71fbe74af0ea.png" title="Java" alt="Java"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143287356-2870558d-fe4c-4374-8346-d410e9303aaf.png" title="Kotlin" alt="Kotlin"/>&nbsp&nbsp
-</div>
-
-### Frameworks, libraries and databases
-
-<div>
     <img src="https://user-images.githubusercontent.com/53942734/143284590-160a009e-5bd3-4c15-8cb4-99c8d0c9678f.png" title="WordPress" alt="WordPress"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143286155-39fc0986-aa9c-4a3a-a87c-29b12b082e4b.png" title="Firebase" alt="Firebase"/>&nbsp&nbsp
     <img src="https://user-images.githubusercontent.com/53942734/143286163-dff20413-2781-4cd8-8d76-65e42bc8332a.png" title="PostgreSQL" alt="PostgreSQL"/>&nbsp&nbsp
