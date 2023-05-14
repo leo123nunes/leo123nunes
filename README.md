@@ -21,16 +21,7 @@
 <br/>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo123nunes&layout=compact)](https://github.com/leo123nunes/github-readme-stats)
- 
 
-### Contact
-<a href="https://www.linkedin.com/in/leonunesoliveira/">
-    <img title="LinkedIn" src="https://user-images.githubusercontent.com/53942734/105248862-ef4bc480-5b55-11eb-926d-d9b8aa20ebba.png"/>
-  </a>
-  &nbsp&nbsp
-<a href="mailto:ti.userleo@hotmail.com" title="E-mail">
-  ti.userleo@hotmail.com
-</a>&nbsp&nbsp
 <!--
 **leo123nunes/leo123nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
